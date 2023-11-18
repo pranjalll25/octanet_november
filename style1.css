@@ -1,0 +1,55 @@
+header{
+    background-image: url(bg1.jpg);
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.logo img{
+    height: 80px;
+    width: 80px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-left: 30px;
+    border-radius: 100%;
+}
+.nav{
+    float: right;
+    display: flex;
+    padding-left: 200px;
+    padding-top: 50px;
+    font-size: large;
+    color: white;
+    padding-right: 40px;
+}
+.nav a:hover{
+    color: grey;
+    font-size: larger;
+}
+.heading1{
+    padding-left: 220px;
+    color: white;
+    padding-top: 200px;
+    text-align: center;
+    font-size: 40px;
+    padding-right: 100px;
+}
+.heading2{
+    padding-left: 200px;
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    padding-right: 40px;
+}
+.main{
+    text-align: center;
+}
+.main button{
+    margin-left: 180px;
+    height: 35px;
+    border-radius: 30%;
+    width: 100px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
